@@ -8,7 +8,7 @@ https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banne
  <img  align="right" width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif " alt="brhan-kbt" /> 
 
 
-- 🔭 I’m currently working on **Karavan E-commerce Website**
+- 🔭 I’m currently working on **Karavan E-commerce Website with  Angular and .NET CORE**
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
