@@ -1,7 +1,7 @@
 
 [![MasterHead](
 https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif
-)](http://brhan.vercel.app)
+)](http://birhanu.et)
 <h1 align="center">Hi 👋, I'm Birhanu</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 
@@ -20,7 +20,7 @@ https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banne
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://brhan.vercel.app/" target="_blank">
+<a href="https://birhanu.et/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/berhankebito">
