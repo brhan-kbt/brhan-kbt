@@ -10,9 +10,9 @@ https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banne
 
 - 🔭 Currently, I'm engaged in multiple projects spanning diverse tech stacks.
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Angular, React, Laravel, Nodejs, Nextjs**
+- 💬 Ask me about **Angular, React, Laravel, Nodejs, Nextjs, Flutter**
 
 - 📫 How to reach me **berhanukebito05@gmail.com**
 
