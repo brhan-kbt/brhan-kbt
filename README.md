@@ -14,7 +14,7 @@ https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banne
 
 - 💬 Ask me about **Angular, React, Laravel, Nodejs, Nextjs, Flutter**
 
-- 📫 How to reach me **berhanukebito05@gmail.com**
+- 📫 How to reach me **<a href="https://birhanu.et/" target="_blank"> BIRHANU.ET </a>**
 
 - ⚡ Fun fact **I think I'm funny!**
 
